@@ -9,7 +9,7 @@
 - **tg(α)**
 
 
-![alt text](/IT-college/Knowledge%20control/images/input_control_math_grade_2.png)
+![alt text](../images/input_control_math_grade_2.png)
 
 
 *Обозначьте на рисунке стороны треугольника и покажите отношения для каждой функции*

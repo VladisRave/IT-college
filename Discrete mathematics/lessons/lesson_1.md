@@ -98,8 +98,7 @@
 
 Для более удобного использования материала используется сводная таблица истинности, которая объединяет все пройденные нами до этого логистические операции
 
-
-![alt text](https://github.com/VladisRave/IT-college.git/blob/main/IT-college/Discrete%20mathematics/images/lesson_1/11.png?raw=true)
+![alt text](../images/lesson_1/11.png)
 
 ---
 
