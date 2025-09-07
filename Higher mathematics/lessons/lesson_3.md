@@ -142,7 +142,6 @@ $$\lim_{x \to a^+} f(x) = \lim_{x \to a^-} f(x) = L$$
     $$
     f(x) = \begin{cases}
         x^2, & \text{если } x < 1 \\
-        
         x + 1, & \text{если } x \geq 1
     \end{cases}
     $$
