@@ -6,21 +6,21 @@ a) $(A \land B) \lor (A \land \neg B)$
 
 b) $\neg(A \lor \neg B) \land A$
 
-c)$(A \rightarrow B) \land A$
+c) $(A \rightarrow B) \land A$
 
-d)$\neg(\neg A \land B) \lor A$
+d) $\neg(\neg A \land B) \lor A$
 
-e)$(A \lor B) \land (\neg A \lor B)$
+e) $(A \lor B) \land (\neg A \lor B)$
 
-f)$\neg A \lor (A \land B)$
+f) $\neg A \lor (A \land B)$
 
-g)$(A \land B) \lor (A \land C) \lor (B \land C)$
+g) $(A \land B) \lor (A \land C) \lor (B \land C)$
 
-h)$\neg(\neg A \lor \neg B) \land A$
+h) $\neg(\neg A \lor \neg B) \land A$
 
 i) $(A \rightarrow B) \lor (B \rightarrow A)$
 
-l)$\neg(A \land \neg B) \lor B$
+l) $\neg(A \land \neg B) \lor B$
 
 **Задание 2** Для выражения $(A \lor B) \land (\neg A \lor C)$ постройте таблицу истинности и соответствующую диаграмму Эйлера-Венна
 
